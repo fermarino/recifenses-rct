@@ -1,0 +1,10 @@
+.container {
+  background-color: #2764FF;
+  color: #fff;
+  font-size: 1.2rem;
+  height: 51px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

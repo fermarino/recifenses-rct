@@ -1,0 +1,18 @@
+.container {
+  background-color: #0047FF;
+
+  height: 
+  130px;
+  padding: 0 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  font-size: 2rem;
+
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
